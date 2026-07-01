@@ -59,13 +59,6 @@ The objective of this project is to perform a Mini Exploratory Data Analysis (ED
 - Passengers travelling with small families had better survival chances than those travelling alone or in very large families.
 - Data cleaning and feature engineering significantly improved the quality of the analysis.
 
-## Project Structure
-
-Task3_Mini_EDA_Titanic/
-│── Mini_EDA_Titanic.ipynb
-│── Titanic-Dataset.csv
-└── README.md
-
 ## Conclusion
 
 This project demonstrates the complete workflow of a Mini Exploratory Data Analysis (EDA), including data cleaning, feature engineering, visualization, and interpretation of results. The analysis provides meaningful insights into how age, embarkation port, and family size influenced passenger survival on the Titanic.
